@@ -22,7 +22,7 @@ In hospital settings, monitoring IV fluid levels is critical. Traditional method
 | Buzzer                 | 1        | Auditory Alert for low fluid level |
 | Wires + Breadboard     | -        | For connections |
 | Power Supply (USB)     | 1        | To power the ESP32 board |
-
+| LCD Display            | 1        | To display the amount of percentage & fluid remaining in the IV bag
 ---
 
 ## ⚙️ How It Works
@@ -30,7 +30,8 @@ In hospital settings, monitoring IV fluid levels is critical. Traditional method
 1. The IV bag is placed on the **load cell** platform. 
 2. The **HX711 module** amplifies the analog signal and sends it to the ESP32.
 3. The ESP32 calculates the current weight of the IV bag.
-4. If the weight drops below a preset threshold (e.g., 100g), the ESP32 triggers:
+4. The LCD display shows the remaining fluid in the IV bag in both milliliters and percentage.
+5. If the weight drops below a preset threshold (e.g., 100g), the ESP32 triggers:
    - 🔔 An alert via **buzzer**
    - Optionally: A **cloud-based alert** using Wi-Fi or MQTT (if extended)
 
@@ -38,5 +39,6 @@ In hospital settings, monitoring IV fluid levels is critical. Traditional method
 
 ## 📐 Circuit Diagram
 
-_(Add a hand-drawn or Fritzing diagram here)_
+![image](https://github.com/user-attachments/assets/e087284d-0336-4854-a9b9-f0a9c9a08e9c)
+
 
