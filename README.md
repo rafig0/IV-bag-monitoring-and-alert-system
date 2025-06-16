@@ -6,7 +6,7 @@ A smart, real-time IV fluid monitoring system using an ESP32 microcontroller and
 
 In hospital settings, monitoring IV fluid levels is critical. Traditional methods rely on nurses manually checking each IV bag, which is time-consuming and prone to human error. This project automates that process by using:
 
-- 📦 A **load cell** to measure fluid weight
+- 📦 A **Strain gauge load cell** to measure fluid weight
 - 🧠 An **ESP32** microcontroller for processing
 - 🔔 A **buzzer** to alert when the fluid level goes below the set threshold
 
@@ -17,7 +17,7 @@ In hospital settings, monitoring IV fluid levels is critical. Traditional method
 | Component              | Quantity | Description |
 |------------------------|----------|-------------|
 | ESP32 Dev Board        | 1        | Microcontroller to interface with all components|
-| Load Cell              | 1        | Measures the weight of the IV fluid bag |
+| Strain gauge Load Cell | 1        | Measures the weight of the IV fluid bag |
 | HX711 Amplifier Module | 1        | Converts analog signal from the load cell to digital |
 | Buzzer                 | 1        | Auditory Alert for low fluid level |
 | Wires + Breadboard     | -        | For connections |
