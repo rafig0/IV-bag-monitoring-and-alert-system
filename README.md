@@ -18,7 +18,7 @@ In hospital settings, monitoring IV fluid levels is critical. Traditional method
 |------------------------|----------|-------------|
 | ESP32 Dev Board        | 1        | Microcontroller to interface with all components|
 | Strain gauge Load Cell | 1        | Measures the weight of the IV fluid bag |
-| HX711 Amplifier Module | 1        | Converts analog signal from the load cell to digital |
+| HX711 Amplifier Module   | 1        | Converts analog signal from the load cell to digital |
 | Buzzer                 | 1        | Auditory Alert for low fluid level |
 | Wires + Breadboard     | -        | For connections |
 | Power Supply (USB)     | 1        | To power the ESP32 board |
