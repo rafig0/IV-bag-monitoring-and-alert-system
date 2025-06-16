@@ -11,5 +11,5 @@ Some potential improvements and extensions for the IV Bag Monitoring and Alert S
 - **Compact & Portable Design:**  
   Develop a smaller, more mobile version of the system for use in home healthcare and remote patient monitoring.
 
-- **Real-Time Alerts:**
+- **Real-Time Alerts:**  
   Wireless notifications (SMS, mobile app, or Wi-Fi dashboard)
