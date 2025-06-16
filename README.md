@@ -41,4 +41,22 @@ In hospital settings, monitoring IV fluid levels is critical. Traditional method
 
 ![image](https://github.com/user-attachments/assets/e087284d-0336-4854-a9b9-f0a9c9a08e9c)
 
+---
+
+## 📸 Project Setup
+
+Here’s a look at the actual hardware setup I used while building this system:
+
+![MySetup-FrontView](https://github.com/user-attachments/assets/58b927e1-e0c2-4c1a-b482-e62a63749af8)
+
+
+![d5adf481-4f3c-41c9-bf2d-0b82b775cfcf](https://github.com/user-attachments/assets/d93090f2-a6e8-4d46-90e8-98c425a7bfd0)
+> ⚠️ *This is my personal prototype build. It's a bit scrappy but fully functional!*
+
+---
+**Here’s a pratical intended representation of the system layout:**
+
+![IV-Bag-alert](https://github.com/user-attachments/assets/c6482817-1ff8-449e-ae72-f51b3479f5ed)   
+*Disclaimer: Image used for representation only. Source: [NevonProjects](https://nevonprojects.com)*
+
 
