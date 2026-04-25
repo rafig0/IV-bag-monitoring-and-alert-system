@@ -57,6 +57,6 @@ Here’s a look at the actual hardware setup I used while building this system:
 **Here’s a pratical intended representation of the system layout:**
 
 ![IV-Bag-alert](https://github.com/user-attachments/assets/c6482817-1ff8-449e-ae72-f51b3479f5ed)   
-*Disclaimer: Image used for representation only. Source: [NevonProjects](https://nevonprojects.com)*
+*Disclaimer: Image used for representation only. Source: NevonProjects*
 
 
