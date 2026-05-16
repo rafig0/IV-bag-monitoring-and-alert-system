@@ -61,7 +61,7 @@ Here’s a look at the actual hardware setup I used while building this system:
 
 ## Code
 
-```
+```cpp
 #include <HX711.h>
 #include <LiquidCrystal_I2C.h>
 
